@@ -1,9 +1,7 @@
 Welcome to the simple chat client-server!
 Implement a client-server network application
 
-To run the files, do the following (after files have been extracted
-from zip):
-
+## How to run
 1.) Run the ChatServer.py in the terminal as below on server A
 "python ChatServer.py IP_ADDR_SERVER_A
 NOTE: the IP address "IP_ADDR_SERVER_A and Port 3123 are hardcoded in the 
