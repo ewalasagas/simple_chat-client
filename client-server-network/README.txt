@@ -1,6 +1,7 @@
 Compile file-transfer client/server 
 Implement 2-connection client-server network application
 
+## How to run
 1.) To compile the the server file, type in "gcc ftserver.c -o server"
 
 2.) Run "./server PORT_NUM" -- PORT_NUM I have been using is 8123 
